@@ -1,3 +1,3 @@
-This is my first Git repository.
+This is my second Git repository.
 I am learning Git.
 This line was added on the feature branch.
